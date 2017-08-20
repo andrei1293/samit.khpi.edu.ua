@@ -1,2 +1,2 @@
 # samit.khpi.edu.ua
-Journal of NTU "KhPI" In System Analysis, Control And Information Technologies Series
+Journal of NTU "KhPI" In Systems Analysis, Control and Information Technologies Series
