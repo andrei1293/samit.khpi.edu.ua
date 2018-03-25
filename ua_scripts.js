@@ -18,6 +18,7 @@ $(document).ready(function(){
 	$("#login").remove();
 
 	// add menu link programmatically
+	$("#navbar .menu").append('<li><a href="http://samit.khpi.edu.ua/pages/view/editorialBoard">Редакційна колегія</a></li>');
 	$("#navbar .menu").append('<li><a href="http://samit.khpi.edu.ua/pages/view/indexing">Індексація</a></li>');
 	$("#navbar .menu").append('<li><a href="http://samit.khpi.edu.ua/about/journalSponsorship">Фінансування</a></li>');
 	$("#navbar .menu").append('<li><a href="http://samit.khpi.edu.ua/about/history">Історія журналу</a></li>');
