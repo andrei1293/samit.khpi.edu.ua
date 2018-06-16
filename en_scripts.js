@@ -33,9 +33,9 @@ $(document).ready(function(){
 	$("#editorialTeam #editors").before("<p>In the editorial board there is no proofreader and installer. The work on creating an original layout of the article relates to the author.</p>");
 	
 	// language select
-	document.getElementById("sidebarDevelopedBy").innerHTML += '<p><a onclick="changeLanguageFast(\'uk_UA\')"><img src="http://samit.khpi.edu.ua/manager/files/images/ua_flag.png" alt="UA"></a> ' +
-		'<a onclick="changeLanguageFast(\'en_US\')"><img src="http://samit.khpi.edu.ua/manager/files/images/en_flag.png" alt="EN"></a> ' +
-		'<a onclick="changeLanguageFast(\'ru_RU\')"><img src="http://samit.khpi.edu.ua/manager/files/images/ru_flag.png" alt="RU"></a></p>';
+	document.getElementById("sidebarDevelopedBy").innerHTML += '<p><a onclick="changeLanguageFast(\'uk_UA\')"><img src="http://samit.khpi.edu.ua/public/site/images/koppam/ua_flag.png" alt="UA"></a> ' +
+		'<a onclick="changeLanguageFast(\'en_US\')"><img src="http://samit.khpi.edu.ua/public/site/images/koppam/en_flag.png" alt="EN"></a> ' +
+		'<a onclick="changeLanguageFast(\'ru_RU\')"><img src="http://samit.khpi.edu.ua/public/site/images/koppam/ru_flag.png" alt="RU"></a></p>';
 });
 
 function changeLanguageFast(new_locale) {
