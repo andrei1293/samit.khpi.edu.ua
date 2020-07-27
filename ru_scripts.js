@@ -18,7 +18,6 @@ $(document).ready(function(){
 	$("#login").remove();
 
 	// add menu link programmatically
-	$("#navbar .menu").append('<li><a href="http://samit.khpi.edu.ua/issue/view/7386">Текущий выпуск</a></li>');
 	$("#navbar .menu").append('<li><a href="http://samit.khpi.edu.ua/pages/view/editorialBoard">Редакционная коллегия</a></li>');
 	$("#navbar .menu").append('<li><a href="http://samit.khpi.edu.ua/pages/view/ethics">Издательская этика</a></li>');
 	$("#navbar .menu").append('<li><a href="http://samit.khpi.edu.ua/pages/view/indexing">Индексация</a></li>');
